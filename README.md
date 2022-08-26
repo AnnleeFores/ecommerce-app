@@ -55,3 +55,5 @@ Deploy Sanity by
 ```bash
 sanity deploy
 ```
+
+_NB: Site not optimized for mobile devices_
