@@ -1,3 +1,5 @@
+# Learning: An ecommerce app made using Next.js, Sanity.io and Stripe
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -43,7 +45,6 @@ sanity start
 ```
 
 ---
-
 
 ## To Deploy
 
